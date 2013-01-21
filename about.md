@@ -9,7 +9,7 @@ For many web developers, accessibility is complex and somewhat difficult. The Ac
 1. **Up-to-date.** The project is hosted on Github so information can be current with the latest standards.
 1. **Forgiving.** People make mistakes and web accessiblity is hard, so we seek to be encouraging.
 
-### Why you should care
+### Why accessibility is important
 
 Blind and visually impaired make up 285,000,000 people according to the [World Health Organization](http://www.who.int/mediacentre/factsheets/fs282/en/) (June 2012) with 39,000,000 categorized as legally blind and the remaining 246,000,000 visually impaired. Deaf and hearing impaired make up 275,000,000 (2004) in the moderate-to-profound hearing impairment category.
 
